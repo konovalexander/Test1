@@ -6,3 +6,5 @@ init remote
 side1
 side2
 
+add something
+
